@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "foocat_mc"
+name = "foocat"
 version = "0.1.0"
 description = "Python package that eases the pain concatenating Pandas categoricals!"
 authors = ["Mike Chen <mike_T_Chen@hotmail.com>"]
